@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*layout*/
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+/*margin*/
+
+.m-50 {
+  margin: 50px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
